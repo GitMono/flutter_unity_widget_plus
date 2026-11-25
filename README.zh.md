@@ -1129,14 +1129,14 @@ Stack(
 
 [version-badge]: https://img.shields.io/pub/v/flutter_unity_widget_plus.svg?style=flat-square
 [package]: https://pub.dev/packages/flutter_unity_widget_plus
-[license-badge]: https://img.shields.io/github/license/yinjianjun1/flutter_unity_widget.svg?style=flat-square
-[license]: https://github.com/yinjianjun1/flutter_unity_widget/blob/master/LICENSE
+[license-badge]: https://img.shields.io/github/license/GitMono/flutter_unity_widget_plus.svg?style=flat-square
+[license]: https://github.com/GitMono/flutter_unity_widget_plus/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs]: https://makeapullrequest.com
-[github-watch-badge]: https://img.shields.io/github/watchers/yinjianjun1/flutter_unity_widget.svg?style=social
-[github-watch]: https://github.com/yinjianjun1/flutter_unity_widget/watchers
-[github-star-badge]: https://img.shields.io/github/stars/yinjianjun1/flutter_unity_widget.svg?style=social
-[github-star]: https://github.com/yinjianjun1/flutter_unity_widget/stargazers
+[github-watch-badge]: https://img.shields.io/github/watchers/GitMono/flutter_unity_widget_plus.svg?style=social
+[github-watch]: https://github.com/GitMono/flutter_unity_widget_plus/watchers
+[github-star-badge]: https://img.shields.io/github/stars/GitMono/flutter_unity_widget_plus.svg?style=social
+[github-star]: https://github.com/GitMono/flutter_unity_widget_plus/stargazers
 
 ## 贡献者 ✨
 

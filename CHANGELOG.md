@@ -1,3 +1,8 @@
+## 2022.3.1
+* Replace internal `material.dart`/`cupertino.dart` imports with `widgets.dart` to clear Flutter 3.50 deprecation warnings.
+* Point homepage, repository and issue tracker links to the `GitMono/flutter_unity_widget_plus` fork.
+* Updates minimum supported SDK version to Flutter 3.27/Dart 3.6, matching the `webview_flutter_platform_interface` requirement.
+
 ## 2022.3.0 (master branch only)
 * [Web] Switch to `package:web` to support WebAssembly (WASM).
 * Updates minimum supported SDK version to Flutter 3.16/Dart 3.2.

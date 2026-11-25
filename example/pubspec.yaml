@@ -6,8 +6,8 @@ description: Demonstrates how to use the flutter_unity_widget_plus plugin.
 publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
 environment:
-  sdk: ">=2.17.0 <4.0.0"
-# >=2.17 or higher is needed for pointer_interceptor to work on web with WASM.
+  sdk: ">=3.6.0 <4.0.0"
+  flutter: ">=3.27.0"
 
 
 dependencies:
